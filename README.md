@@ -1,37 +1,27 @@
-## About Me:
+# Hey, I'm Leo :)
 
-Hi, Leo here!
-I'm a student from Germany mainly interested in:
+I'm a student from Germany with a love for math, programming, and building cool things.
 
-- **calculator programming** for the TI-Nspire series in Lua
-- **modern AI algorithms (primarily RL)** with Python (Pytorch > Tensorflow)
-- ... and **many other things** like game programming or mathematical visualizations
+## About Me
+I'm interested in:
+- calculator programming for the TI-Nspire series (with Lua)
+- exploring AI algorithms, mostly reinforcement learning in Python *(Pytorch > Tensorflow)*
+- configuring **Arch + Hyprland** btw
+- ... and many more things.
 
-Additionally I'm proud user of Arch hyprland btw :)
+---
 
-## Most proud of Projects:
-[![XWiki](https://github-readme-stats.vercel.app/api/pin/?username=leog314&repo=XWiki&theme=dark)](https://github.com/leog314/XWiki)
-[![smo-lunakit](https://github-readme-stats.vercel.app/api/pin/?username=leog314&repo=universal-DQ-Learning&theme=dark)](https://github.com/leog314/universal-DQ-Learning)
+## Projects I’m Proud Of
 
-# GitHub Stats:
-not reliable (since I don't upload many projects), but maybe interesting:
-![](https://github-readme-stats.vercel.app/api?username=leog314&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=leog314&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leog314&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![XWiki](https://github-readme-stats.vercel.app/api/pin/?username=leog314\&repo=XWiki\&theme=dark)](https://github.com/leog314/XWiki)
+[![Universal DQ-Learning](https://github-readme-stats.vercel.app/api/pin/?username=leog314\&repo=universal-DQ-Learning\&theme=dark)](https://github.com/leog314/universal-DQ-Learning)
 
+---
 
+## Stats (for fun)
 
-<!--
-**leog314/leog314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I don’t upload everything I make, but here are some numbers anyway:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=leog314\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=leog314\&theme=dark\&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leog314\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
