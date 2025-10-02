@@ -34,3 +34,5 @@ I'm interested in:
 ## Some More Facts About Me
 - Big fan of **Chess** ♟️ and **Go** ⚫ — I love the mix of strategy and creativity in both
 - I also enjoy playing the **piano** 🎹
+
+I'm always available for challenging and interesting projects ;)
