@@ -27,8 +27,8 @@ I'm interested in:
 
 > I don’t upload many things I make, but here are some numbers anyway:
 
-![](https://github-readme-stats.vercel.app/api?username=leog314\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=leog314\&theme=dark\&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=leog314\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=leog314\&theme=dark\&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leog314\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
 
 ## Some More Facts About Me
