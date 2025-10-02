@@ -33,9 +33,6 @@ I'm interested in:
 ![](https://nirzak-streak-stats.vercel.app/?user=leog314\&theme=dark\&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leog314\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
 
-[## 📝 Some More Facts About Me
-
-* Big fan of **Chess** ♟️ and **Go** ⚫ — I love the mix of strategy and creativity in both
-* I also enjoy playing the **piano** 🎹]: #
+[## 📝 Some More Facts About Me * Big fan of **Chess** ♟️ and **Go** ⚫ — I love the mix of strategy and creativity in both * I also enjoy playing the **piano** 🎹]: #
 
 > always available for challenging and interesting projects ;)
