@@ -20,7 +20,7 @@ I'm interested in:
 
 ## GitHub Stats
 
-| I don’t upload everything I make, but here are some numbers anyway:
+> I don’t upload everything I make, but here are some numbers anyway:
 
 ![](https://github-readme-stats.vercel.app/api?username=leog314\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=leog314\&theme=dark\&hide_border=false)
