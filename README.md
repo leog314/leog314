@@ -1,4 +1,4 @@
-# Hey, I'm Leo :)
+# 💫 Hey, I'm Leo :)
 
 I'm a student from Germany with a love for math, programming, and building cool things.
 
