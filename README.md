@@ -10,7 +10,7 @@ I'm interested in:
 * exploring **AI algorithms**, mostly RL in Python *(PyTorch > TensorFlow)*
 * configuring **Arch + Hyprland** btw
 
-... and many more things.
+...and many more things.
 
 ---
 
