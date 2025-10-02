@@ -1,17 +1,17 @@
 # 💫 Hey, I'm Leo :)
 
-I'm a student from Germany with a love for math, programming, and building cool things.
+...a student from Germany with a love for math, programming, and building cool things.
 
 ## About Me
 I'm interested in:
-- calculator programming for the TI-Nspire series (with Lua)
-- exploring AI algorithms, mostly reinforcement learning in Python *(Pytorch > Tensorflow)*
+- **calculator programming** for the TI-Nspire series (with Lua)
+- exploring **AI algorithms**, mostly reinforcement learning in Python *(Pytorch > Tensorflow)*
 - configuring **Arch + Hyprland** btw
 - ... and many more things.
 
 ---
 
-## Projects I’m Proud Of
+## Projects I’m Especially Proud Of
 
 [![XWiki](https://github-readme-stats.vercel.app/api/pin/?username=leog314\&repo=XWiki\&theme=dark)](https://github.com/leog314/XWiki)
 [![Universal DQ-Learning](https://github-readme-stats.vercel.app/api/pin/?username=leog314\&repo=universal-DQ-Learning\&theme=dark)](https://github.com/leog314/universal-DQ-Learning)
