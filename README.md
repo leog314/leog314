@@ -7,6 +7,7 @@ I'm interested in:
 - **calculator programming** for the TI-Nspire series (with Lua)
 - exploring **AI algorithms**, mostly reinforcement learning in Python *(Pytorch > Tensorflow)*
 - configuring **Arch + Hyprland** btw
+
 ... and many more things.
 
 ---
