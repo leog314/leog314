@@ -32,5 +32,5 @@ I'm interested in:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leog314\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
 
 ## Some More Facts About Me
-- I love the games of **Chess and Go** ⚫
-- also I'm a passionated piano player 🎹
+- Big fan of **Chess** ♟️ and **Go** ⚫ — I love the mix of strategy and creativity in both
+- I also enjoy playing the **piano** 🎹
