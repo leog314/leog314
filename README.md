@@ -16,12 +16,17 @@ I'm interested in:
 [![XWiki](https://github-readme-stats.vercel.app/api/pin/?username=leog314\&repo=XWiki\&theme=dark)](https://github.com/leog314/XWiki)
 [![Universal DQ-Learning](https://github-readme-stats.vercel.app/api/pin/?username=leog314\&repo=universal-DQ-Learning\&theme=dark)](https://github.com/leog314/universal-DQ-Learning)
 
+<img src="https://github.com/leog314/XWiki/blob/main/build/media/wiki_animation.gif?raw=true" width="400">
 ---
 
 ## GitHub Stats
 
-> I don’t upload everything I make, but here are some numbers anyway:
+> I don’t upload many things I make, but here are some numbers anyway:
 
 ![](https://github-readme-stats.vercel.app/api?username=leog314\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=leog314\&theme=dark\&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leog314\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
+
+## Some More Facts About Me
+- I love the games of **Chess and Go** ⚫
+- also I'm a passionated piano player 🎹
