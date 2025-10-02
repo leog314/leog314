@@ -15,7 +15,7 @@ Additionally I'm proud user of Arch hyprland btw :)
 
 # GitHub Stats:
 not reliable (since I don't upload many projects), but maybe interesting:
-![](https://github-readme-stats.vercel.app/api?username=leog314&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=leog314&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=leog314&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leog314&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
