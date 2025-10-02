@@ -1,6 +1,6 @@
 # Hi there, I'm Leo :)
 
-...a curios student from Germany with a love for math, programming, and building cool things.
+...a curios student from Germany with a love for math and programming.
 
 ## 💫 About Me
 I'm interested in:
