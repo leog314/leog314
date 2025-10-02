@@ -14,7 +14,7 @@ I'm interested in:
 
 ---
 
-## 💻 Projects I’m Proud Of
+## 💻 Some Projects
 
 [![XWiki](https://github-readme-stats.vercel.app/api/pin/?username=leog314\&repo=XWiki\&theme=dark)](https://github.com/leog314/XWiki)
 [![Universal DQ-Learning](https://github-readme-stats.vercel.app/api/pin/?username=leog314\&repo=universal-DQ-Learning\&theme=dark)](https://github.com/leog314/universal-DQ-Learning)
