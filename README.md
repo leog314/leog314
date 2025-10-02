@@ -11,16 +11,16 @@ I'm interested in:
 
 ---
 
-## Projects I’m Especially Proud Of
+## Projects I’m Proud Of
 
 [![XWiki](https://github-readme-stats.vercel.app/api/pin/?username=leog314\&repo=XWiki\&theme=dark)](https://github.com/leog314/XWiki)
 [![Universal DQ-Learning](https://github-readme-stats.vercel.app/api/pin/?username=leog314\&repo=universal-DQ-Learning\&theme=dark)](https://github.com/leog314/universal-DQ-Learning)
 
 ---
 
-## Stats (for fun)
+## GitHub Stats
 
-I don’t upload everything I make, but here are some numbers anyway:
+| I don’t upload everything I make, but here are some numbers anyway:
 
 ![](https://github-readme-stats.vercel.app/api?username=leog314\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=leog314\&theme=dark\&hide_border=false)
