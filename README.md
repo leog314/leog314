@@ -15,7 +15,7 @@ I'm interested in:
 
 [![XWiki](https://github-readme-stats.vercel.app/api/pin/?username=leog314\&repo=XWiki\&theme=dark)](https://github.com/leog314/XWiki)
 [![Universal DQ-Learning](https://github-readme-stats.vercel.app/api/pin/?username=leog314\&repo=universal-DQ-Learning\&theme=dark)](https://github.com/leog314/universal-DQ-Learning)
-[![Universal DQ-Learning](https://github-readme-stats.vercel.app/api/pin/?username=leog314\&repo=universal-DQ-Learning\&theme=dark)](https://github.com/leog314/image-generation-of-the-Mandelbrot-set)
+[![Mandelbrot set](https://github-readme-stats.vercel.app/api/pin/?username=leog314\&repo=universal-DQ-Learning\&theme=dark)](https://github.com/leog314/image-generation-of-the-Mandelbrot-set)
 
 <img src="https://github.com/leog314/XWiki/blob/main/build/media/wiki_animation.gif?raw=true" width="250"> <img src="https://github.com/leog314/image-generation-of-the-Mandelbrot-set/blob/main/images/mandelbrot%403d.png?raw=true" width="250"> <img src="https://github.com/leog314/Go_for_ti/blob/main/go_picture.jpg?raw=true" width="250">
 ---
